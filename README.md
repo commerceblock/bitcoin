@@ -1,1 +1,2 @@
 # bitcoin
+Dockerized bitcoin client
